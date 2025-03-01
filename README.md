@@ -30,18 +30,6 @@ This allows users to stay organized, save time, and focus on what matters most.
 
 ---
 
-## **Are You Using PromptRepo?**  
-Yes ✅  
-
-## **PromptRepo Google Sheet Link**  
-[(https://docs.google.com/spreadsheets/d/1fUnhkTqJ5Ve1Q8z9zN_h-J548C88i9sACakdfe-Xfsw/edit?usp=sharing)]  
-
-## **What Kind of AI Model Are You Using?**  
-- Classification  
-- Generation  
-- Extraction  
-
----
 
 ## **Technologies Stack**  
 - Node.js  
@@ -60,11 +48,3 @@ Yes ✅
 
 ---
 
-## **Team Members**  
-- Tushar Shekhar  
-- Shreyas Wagh  
-- Aditya Borhade  
-- Kshitij Kotecha  
-- Pranjal Gosavi  
-
----
